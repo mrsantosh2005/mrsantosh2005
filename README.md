@@ -52,7 +52,7 @@
 # ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,python,html,css,spring,mysql,git,github,aws,vscode,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,html,css,spring,mysql,git,github,aws,vscode,postman&perline=8" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100%"/>
 
 </td>
 
@@ -162,8 +162,11 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+
 <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb"/>
+
 <img src="https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge"/>
 
 </p>
