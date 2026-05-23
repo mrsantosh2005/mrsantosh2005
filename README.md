@@ -1,34 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+Developer+🚀;AWS+Cloud+Learner+☁️;Building+Awesome+Projects+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+MERN+Developer+🚀;AWS+Cloud+Learner+☁️;AI+%26+Web+Projects+Builder+🔥;Welcome+To+My+GitHub+Profile+✨" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Santosh%20Chintawar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SantoshChintawar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SantoshChintawar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<div align="center">
-
+<p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</div>
+</p>
 
 ---
 
 # 🌌 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-✨ Passionate about building real-world applications  
-🚀 Full Stack Developer from India  
+✨ Passionate Full Stack Developer from India  
+🚀 Building Real World Web Applications  
 ☁️ Learning AWS & Cloud Technologies  
-🤖 Exploring AI & Automation  
-💻 Love creating innovative projects  
+🤖 Interested in AI & Automation  
+💻 Love solving real-world problems with code  
 🔥 Always learning new technologies  
 
 ---
@@ -51,10 +49,10 @@
 
 ---
 
-# ⚡ Tech Universe
+# ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,react,spring,html,css,mysql,git,github,aws,vscode,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,python,html,css,spring,mysql,git,github,aws,vscode,postman&perline=8" />
 </p>
 
 ---
@@ -67,12 +65,13 @@
 <tr>
 <td width="50%">
 
-## 🅿️ Smart Parking Platform
+# 🅿️ Smart Parking Platform
 
 🚗 Smart parking management system  
-📍 Find parking slots  
-💳 Online booking system  
-📊 Manage parking records  
+📍 Find nearby parking slots  
+💳 Online parking booking  
+📊 Parking management dashboard  
+⚡ Real-time slot availability  
 
 ### ⚙️ Tech Stack
 `React.js` `Spring Boot` `MySQL`
@@ -95,6 +94,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
@@ -103,38 +103,42 @@
 
 <td width="50%">
 
+# 📄 AI Resume Screening System
 
-</table>
-
-</div>
-
-## 📄 AI Resume Screening System
-
-🤖 AI-powered Resume Screening Web Application built using MERN Stack.
-
-### ✨ Features
-- Upload resumes easily
-- Automatic resume analysis
-- Skill matching with job roles
-- Candidate shortlisting
-- Modern responsive dashboard
+🤖 AI-powered Resume Screening Web App  
+📑 Upload & analyze resumes  
+🎯 Smart candidate filtering  
+⚡ Automated skill matching  
+📊 Recruiter dashboard  
 
 ### ⚙️ Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js`
 
-### 🚀 Project Highlights
-- Full Stack MERN Application
-- Responsive UI
-- REST API Integration
-- Resume Data Management
-- Smart Candidate Filtering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+</p>
 
-## 🏍️ MotoRent India
+</td>
+</tr>
+</table>
 
-🏍️ Bike rental platform  
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+# 🏍️ MotoRent India
+
+🏍️ Motorcycle rental platform  
 📍 Browse bikes easily  
 💳 Online booking system  
 📅 Check pricing & availability  
+🔥 User-friendly UI  
 
 ### ⚙️ Tech Stack
 `HTML` `CSS` `JavaScript`
@@ -150,6 +154,19 @@
 </table>
 
 </div>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/AI-Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -181,10 +198,18 @@
 
 ---
 
+# 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshChintawar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 🐍 Snake Eating Contributions
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -197,11 +222,35 @@
 
 ---
 
-# 🔥 Visitor Counter
+# 🔥 Coding Profiles
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SantoshChintawar&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-green?style=for-the-badge&logo=geeksforgeeks"/>
+
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-brightgreen?style=for-the-badge&logo=hackerrank"/>
+
 </p>
+
+---
+
+# ☁️ AWS Journey
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Learner-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become AWS Certified  
+✅ Contribute to Open Source  
+✅ Build AI Projects  
+✅ Crack Big Tech Opportunities  
+✅ Improve DSA & Development Skills  
 
 ---
 
