@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+MERN+Developer+🚀;AWS+Cloud+Learner+☁️;AI+%26+Web+Projects+Builder+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+Developer+🚀;AWS+Cloud+Learner+☁️;AI+%26+Web+Projects+Builder+🔥" />
 </h1>
 
 <p align="center">
@@ -97,6 +97,7 @@
 
 <td width="50%">
 
+<!-- JS Animation -->
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100%"/>
 
 </td>
