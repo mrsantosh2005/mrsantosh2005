@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+MERN+Developer+🚀;AWS+Cloud+Learner+☁️;AI+%26+Web+Projects+Builder+🔥;Welcome+To+My+GitHub+Profile+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2500&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+There+👋;I'm+Santosh+Chintawar;Full+Stack+MERN+Developer+🚀;AWS+Cloud+Learner+☁️;AI+%26+Web+Projects+Builder+🔥" />
 </h1>
 
 <p align="center">
@@ -22,8 +22,8 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-✨ Passionate Full Stack Developer from India  
-🚀 Building Real World Web Applications  
+✨ Passionate Full Stack MERN Developer  
+🚀 Building Real World Applications  
 ☁️ Learning AWS & Cloud Technologies  
 🤖 Interested in AI & Automation  
 💻 Love solving real-world problems with code  
@@ -70,7 +70,7 @@
 🚗 Smart parking management system  
 📍 Find nearby parking slots  
 💳 Online parking booking  
-📊 Parking management dashboard  
+📊 Parking dashboard  
 ⚡ Real-time slot availability  
 
 ### ⚙️ Tech Stack
@@ -97,7 +97,7 @@
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100%"/>
 
 </td>
 
