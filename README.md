@@ -103,29 +103,31 @@
 
 <td width="50%">
 
-## 📄 AI Resume Screening System
 
-🤖 AI-based Resume Analyzer  
-📑 Resume filtering automation  
-🎯 Skill matching with jobs  
-⚡ Saves recruiter time  
-
-### ⚙️ Tech Stack
-`Python` `Machine Learning` `Flask`
-
-</td>
-</tr>
 </table>
 
 </div>
 
----
+## 📄 AI Resume Screening System
 
-<div align="center">
+🤖 AI-powered Resume Screening Web Application built using MERN Stack.
 
-<table>
-<tr>
-<td width="50%">
+### ✨ Features
+- Upload resumes easily
+- Automatic resume analysis
+- Skill matching with job roles
+- Candidate shortlisting
+- Modern responsive dashboard
+
+### ⚙️ Tech Stack
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+### 🚀 Project Highlights
+- Full Stack MERN Application
+- Responsive UI
+- REST API Integration
+- Resume Data Management
+- Smart Candidate Filtering
 
 ## 🏍️ MotoRent India
 
