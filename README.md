@@ -6,6 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SantoshChintawar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
 ---
 
 <div align="center">
@@ -32,15 +36,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-link">
+<a href="https://linkedin.com/in/santosh-chintawar">
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/SantoshChintawar">
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:santoshchintawar@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 </p>
@@ -151,9 +155,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantoshChintawar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshChintawar&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
@@ -162,7 +166,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SantoshChintawar&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -170,7 +174,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SantoshChintawar&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -191,18 +195,10 @@
 
 ---
 
-# 🎵 Spotify Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
 # 🔥 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=SantoshChintawar&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
