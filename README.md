@@ -61,98 +61,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-# 🅿️ Smart Parking Platform
-
-🚗 Smart parking management system  
-📍 Find nearby parking slots  
-💳 Online parking booking  
-📊 Parking dashboard  
-⚡ Real-time slot availability  
-
-### ⚙️ Tech Stack
-`React.js` `Spring Boot` `MySQL`
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-<!-- JS Animation -->
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-# 📄 AI Resume Screening System
-
-🤖 AI-powered Resume Screening Web App  
-📑 Upload & analyze resumes  
-🎯 Smart candidate filtering  
-⚡ Automated skill matching  
-📊 Recruiter dashboard  
-
-### ⚙️ Tech Stack
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-# 🏍️ MotoRent India
-
-🏍️ Motorcycle rental platform  
-📍 Browse bikes easily  
-💳 Online booking system  
-📅 Check pricing & availability  
-🔥 User-friendly UI  
-
-### ⚙️ Tech Stack
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+| |
+|:---:|
+| <h3>🅿️ Smart Parking Platform</h3>  <br/> 🚗 Smart parking management system <br/> 📍 Find nearby parking slots <br/> 💳 Online parking booking <br/> 📊 Parking dashboard <br/> ⚡ Real-time slot availability <br/><br/> **⚙️ Tech Stack:** `React.js` `Spring Boot` `MySQL` |
+| <h3>📄 AI Resume Screening System</h3> <br/> 🤖 AI-powered Resume Screening Web App <br/> 📑 Upload & analyze resumes <br/> 🎯 Smart candidate filtering <br/> ⚡ Automated skill matching <br/> 📊 Recruiter dashboard <br/><br/> **⚙️ Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` <br/> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/> |
+| <h3>🏍️ MotoRent India</h3> <br/> 🏍️ Motorcycle rental platform <br/> 📍 Browse bikes easily <br/> 💳 Online booking system <br/> 📅 Check pricing & availability <br/> 🔥 User-friendly UI <br/><br/> **⚙️ Tech Stack:** `HTML` `CSS` `JavaScript` |
 
 </div>
 
