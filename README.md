@@ -65,7 +65,6 @@
 |:---:|
 | <h3>🅿️ Smart Parking Platform</h3>  <br/> 🚗 Smart parking management system <br/> 📍 Find nearby parking slots <br/> 💳 Online parking booking <br/> 📊 Parking dashboard <br/> ⚡ Real-time slot availability <br/><br/> **⚙️ Tech Stack:** `React.js` `Spring Boot` `MySQL` |
 | <h3>📄 AI Resume Screening System</h3> <br/> 🤖 AI-powered Resume Screening Web App <br/> 📑 Upload & analyze resumes <br/> 🎯 Smart candidate filtering <br/> ⚡ Automated skill matching <br/> 📊 Recruiter dashboard <br/><br/> **⚙️ Tech Stack:** `MongoDB` `Express.js` `React.js` `Node.js` <br/> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/> |
-| <h3>🏍️ MotoRent India</h3> <br/> 🏍️ Motorcycle rental platform <br/> 📍 Browse bikes easily <br/> 💳 Online booking system <br/> 📅 Check pricing & availability <br/> 🔥 User-friendly UI <br/><br/> **⚙️ Tech Stack:** `HTML` `CSS` `JavaScript` |
 
 </div>
 
